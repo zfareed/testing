@@ -8,6 +8,8 @@ namespace CSharpUdemyCourse
         {
             Console.WriteLine("Hello World!");
 
+            Console.WriteLine("Nice.. It works");
+
         }
     }
 }
